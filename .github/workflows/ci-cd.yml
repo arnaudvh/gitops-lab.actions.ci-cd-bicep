@@ -15,7 +15,7 @@ on:
   
 env:
   AZURE_RG: RG3
-  AZURE_SUBSCRIPTION: 4a9ba859-0af0-4574-9ed7-abacc6a3618d
+  AZURE_SUBSCRIPTION: b3570e4a-cb5a-4c0d-919e-0c7feba27fba
   AZURE-LOCATION: WestEurope
   
 jobs:
